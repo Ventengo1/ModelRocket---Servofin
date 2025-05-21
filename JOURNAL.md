@@ -20,6 +20,4 @@ created_at: "2025-05-21"
 - Next Steps:
 - Starting to create the body of the rocket
 
-[insert pictures of what you're working on!]
-
 **Total time spent: 1.5h**
