@@ -30,6 +30,9 @@ created_at: "2025-05-21"
 - Then attach Nose cone to body of rocket
 - Made sure that the body of the rocket has a big enough diameter so that the ESP32 board could fit
 
+  ![Screenshot 2025-05-22 194748](https://github.com/user-attachments/assets/20f406ec-f161-494c-8828-dc291f708dfe)
+
+
 - After this spent about 30min researching different engines to use
 - After I sliced the 3 things I made, they alone ended up using about 60g of filament so the total weight of the rocket is going to be ~ 100g
 - Decided to use engine with 5-6oz maximum lift weight
@@ -39,6 +42,9 @@ created_at: "2025-05-21"
 - Max Lift Weight = 6oz (170g)
 - Issue is though the engine diameter is 24mm
 - So will make the engine mount 24mm to fit the engine perfectly
+
+![image](https://github.com/user-attachments/assets/06e9891e-c0ac-43d3-ac9c-c8a449f9be0d)
+
 
 **Total time spent: 1.5h**
 
