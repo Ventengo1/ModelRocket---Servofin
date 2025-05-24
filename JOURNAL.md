@@ -48,3 +48,18 @@ created_at: "2025-05-21"
 
 **Total time spent: 1.5h**
 
+
+# May 23st: Working on Fin section of rocket and finalizing servos
+
+- Worked on figuring out how servo would fit
+- Realized that I would need the servo the be at a veritcal orientation
+- And for it to be smaller
+- Oringally was using this servo:https://www.aliexpress.us/item/3256808061785803.html?spm=a2g0o.productlist.main.11.51c08752aypQdM&algo_pvid=51e031bd-3c3f-4e6a-a8a3-cedbc3230a41&algo_exp_id=51e031bd-3c3f-4e6a-a8a3-cedbc3230a41-10&pdp_ext_f=%7B%22order%22%3A%221380%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005008248100555%22%2C%22orig_item_id%22%3A%221005007442852333%22%7D&pdp_npi=4%40dis%21USD%214.35%211.97%21%21%2131.14%2114.14%21%402103277f17480478097133871edb30%2112000044371515279%21sea%21US%210%21ABX&curPageLogUid=WFO2d8nIymAD&utparam-url=scene%3Asearch%7Cquery_from%3A
+- But now could use this one:https://www.adafruit.com/product/169
+- Newer one is smaller and lighter which will help the rocket greatly
+- Either way, added areas on my current design for the bottom part of the rocket
+- ![Screenshot 2025-05-23 202328](https://github.com/user-attachments/assets/a4f7be9c-65ff-4fe3-a573-d07c2a7369b9)
+
+
+**Total time spent: 1h**
+
