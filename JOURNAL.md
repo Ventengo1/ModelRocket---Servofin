@@ -22,7 +22,7 @@ created_at: "2025-05-21"
 
 **Total time spent: 1.5h**
 
-# May 22st: Brainstorming and Finding Parts
+# May 22nd: Brainstorming and Finding Parts
 
 - Created the nose cone, fuselage with a launch lug, and my nose cone coupler
 - Body of the rocket will be 8.5in
@@ -49,7 +49,7 @@ created_at: "2025-05-21"
 **Total time spent: 1.5h**
 
 
-# May 23st: Working on Fin section of rocket and finalizing servos
+# May 23rd: Working on Fin section of rocket and finalizing servos
 
 - Worked on figuring out how servo would fit
 - Realized that I would need the servo the be at a veritcal orientation
@@ -62,4 +62,16 @@ created_at: "2025-05-21"
 
 
 **Total time spent: 1h**
+
+# May 24th: Finishing 3D Model for Fin section of rocket
+ - Finished up work on the fin section
+ - Decided to add 2 fins as 4 would result in too many servos
+ - One issue is that the servos get in the way of most of the launch ejection charge
+ - Going to find a way around this by adding a tube
+ - Also made my engine mount work for a 24mm rocket engine
+ - Added 2 fins which aren't connected yet because they will be attached to the servo
+ - ![Screenshot 2025-05-24 155420](https://github.com/user-attachments/assets/af3c577c-9ecb-4587-af62-ab2f16c04a18)
+![Screenshot 2025-05-24 155356](https://github.com/user-attachments/assets/70320981-a7e5-4cbe-a83f-cd746c0451d1)
+
+**Total time spent: 2h**
 
