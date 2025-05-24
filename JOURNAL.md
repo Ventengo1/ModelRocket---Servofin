@@ -75,3 +75,16 @@ created_at: "2025-05-21"
 
 **Total time spent: 2h**
 
+# May 25th: Writing Code
+ - Wrote code to control the servos
+ - Allows me to control them wirelessly from a seperate device like my phone
+ - Spent around 30 min looking on web for inspiration
+ - After wrote the code and looked at how other created something similar
+ - Don't have the ESP32 board to test
+ -   Everything is set up in Arduino though
+ - Later today or tommorow will work on finding batteries and mapping out how I will put everything inside the rocket without letting in get burnt\
+ - ![Screenshot 2025-05-24 170119](https://github.com/user-attachments/assets/c741dd0b-d763-4207-a8db-b18fe2854fb0)
+
+**Total time spent: 1.5h**
+
+
