@@ -97,8 +97,12 @@ created_at: "2025-05-21"
  - Then I worked on finding both a 5v battery to work with the servo board
  - And then a 3-4v battery to work with ESP32
  - Biggets issue I'm facing right now is the weight of the batteries and the size of them
+ - Changed the ESP32 board to this: https://www.amazon.com/HiLetgo-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0718T232Z
+ - Added A Servo Driver Board : https://www.amazon.com/HiLetgo-PCA9685-Channel-12-Bit-Arduino/dp/B01D1D0CX2/ref=pd_lpo_d_sccl_1/130-0566564-6355817?pd_rd_w=N0b7z&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=C68A94E6A65529XK7T6W&pd_rd_wg=2kaNS&pd_rd_r=edb42ae9-2e47-42e0-aa57-b1dbcc266658&pd_rd_i=B01D1D0CX2&psc=1
+ - Going to use the 3.7v batteries I have at home and buy 3v to 5v converters from Aliexpress
+ - :https://www.aliexpress.us/item/2251832713406135.html?spm=a2g0o.productlist.main.1.75d951HR51HR3l&algo_pvid=09677a68-37a7-471c-80d3-7dd8453e537c&algo_exp_id=09677a68-37a7-471c-80d3-7dd8453e537c-0&pdp_ext_f=%7B%22order%22%3A%22631%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.49%210.99%21%21%212.49%210.99%21%402101efeb17482077025604089e4d3d%2165881276347%21sea%21US%216376028355%21ABX&curPageLogUid=FGIut17SjQxe&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-   **Total time spent: 5h**
+   **Total time spent: 5.5h**
 
 
 
