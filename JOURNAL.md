@@ -75,7 +75,7 @@ created_at: "2025-05-21"
 
 **Total time spent: 2h**
 
-# May 25th: Writing Code
+# May 24th: Writing Code
  - Wrote code to control the servos
  - Allows me to control them wirelessly from a seperate device like my phone
  - Spent around 30 min looking on web for inspiration
