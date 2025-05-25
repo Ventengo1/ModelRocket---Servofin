@@ -87,4 +87,18 @@ created_at: "2025-05-21"
 
 **Total time spent: 1.5h**
 
+# May 25th: Find Boards and Batteries
+ - Was just finishing up plans and then realized it is super difficult to connect 2 servos to ESP32
+ - Spent about 1 hour looking for solutions and then finally settled on using another board and using I2C
+ - Then spent another 1 hour finding the perfect board and finally decided on PCA9685
+ - Has 16 servo channels
+ - Has I2C
+ - And will work has my SG90 servo
+ - Then I worked on finding both a 5v battery to work with the servo board
+ - And then a 3-4v battery to work with ESP32
+ - Biggets issue I'm facing right now is the weight of the batteries and the size of them
+
+   **Total time spent: 5h**
+
+
 
