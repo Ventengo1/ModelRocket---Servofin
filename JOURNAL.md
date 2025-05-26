@@ -107,5 +107,24 @@ created_at: "2025-05-21"
 
    **Total time spent: 5.5h**
 
+   # May 26th: Writing New Code and Finding Parts
+ - Took old code which controlled servos and rewrote it
+ - Now servos are connected to a PCA9685 servo driver board which is connected to ESP32
+ - Complicated code a bit but still worked through it
+ - Now also added code for the BMP280 sensor which will measure altiude and maybe temperature
+ - It will be connected directly to the ESP32
+ - Added to code so it displays current altitude and the max altitude reached
+
+ - After this worked on just confirming the wiring
+ - Ran into a issue with the ports as I need 2 wires to connect to the 3V3 port
+ - Kept troubleshooting for nearly 1 hour and searching the web
+ - Finally decided to use a terminal block
+ - Aliexpress link: https://www.aliexpress.us/item/3256803684080411.html?spm=a2g0o.productlist.main.1.5af76df4q6r0IC&algo_pvid=b649349e-20a5-4b7b-9e63-a1777eec0106&algo_exp_id=b649349e-20a5-4b7b-9e63-a1777eec0106-0&pdp_ext_f=%7B%22order%22%3A%221641%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%219.34%211.34%21%21%219.34%211.34%21%402101ea8c17482952334556140e0b42%2112000027362463488%21sea%21US%216376028355%21ABX&curPageLogUid=FKVwNpiMR4Us&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-description
+
+ - ![image](https://github.com/user-attachments/assets/e57ea1b5-d486-408e-a59d-302bccdae3bf)
+
+
+**Total time spent: 2.5h**
+
 
 
