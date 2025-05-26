@@ -96,7 +96,10 @@ created_at: "2025-05-21"
  - And will work has my SG90 servo
  - Then I worked on finding both a 5v battery to work with the servo board
  - And then a 3-4v battery to work with ESP32
- - Biggets issue I'm facing right now is the weight of the batteries and the size of them
+ - Issue is that I originally looked for a 5v battery
+ - But 5v battery is SO Large
+ - and they dont have 5v LiPo batteries
+ - Biggest issue I'm facing right now is the weight of the batteries and the size of them
  - Changed the ESP32 board to this: https://www.amazon.com/HiLetgo-ESP-WROOM-32-Development-Microcontroller-Integrated/dp/B0718T232Z
  - Added A Servo Driver Board : https://www.amazon.com/HiLetgo-PCA9685-Channel-12-Bit-Arduino/dp/B01D1D0CX2/ref=pd_lpo_d_sccl_1/130-0566564-6355817?pd_rd_w=N0b7z&content-id=amzn1.sym.4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_p=4c8c52db-06f8-4e42-8e56-912796f2ea6c&pf_rd_r=C68A94E6A65529XK7T6W&pd_rd_wg=2kaNS&pd_rd_r=edb42ae9-2e47-42e0-aa57-b1dbcc266658&pd_rd_i=B01D1D0CX2&psc=1
  - Going to use the 3.7v batteries I have at home and buy 3v to 5v converters from Aliexpress
