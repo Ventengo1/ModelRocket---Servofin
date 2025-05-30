@@ -126,5 +126,18 @@ created_at: "2025-05-21"
 
 **Total time spent: 2.5h**
 
+# May 29th: Writing New Code and Finding Parts
+ - Wasn't able to work the past couple days because I had a bunch of test
+ - Today worked on finalizing the repo and the BOM
+ - Put all the AliExpress stuff together in a cart and realized it was going to be more expensive the orignally planned
+ - From $12 - $20
+ - ![image](https://github.com/user-attachments/assets/a1abb1c0-fcdd-4646-aecc-2355c6652941)
+ - After that worked and searched web to find a cheaper Servo Driver Board and figure out that part
+ - Then I finalized up my plans and I am planning to submit either today or tomorrow
+ - Most likey tomorrow as I still have a few things to do
+ - Trying to keep my project to the $50 and under range but right now around ~$60
+
+**Total time spent: 1.5h**
+
 
 
