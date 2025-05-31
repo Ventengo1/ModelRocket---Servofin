@@ -105,7 +105,7 @@ created_at: "2025-05-21"
  - Going to use the 3.7v batteries I have at home and buy 3v to 5v converters from Aliexpress
  - :https://www.aliexpress.us/item/2251832713406135.html?spm=a2g0o.productlist.main.1.75d951HR51HR3l&algo_pvid=09677a68-37a7-471c-80d3-7dd8453e537c&algo_exp_id=09677a68-37a7-471c-80d3-7dd8453e537c-0&pdp_ext_f=%7B%22order%22%3A%22631%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.49%210.99%21%21%212.49%210.99%21%402101efeb17482077025604089e4d3d%2165881276347%21sea%21US%216376028355%21ABX&curPageLogUid=FGIut17SjQxe&utparam-url=scene%3Asearch%7Cquery_from%3A
 
-   **Total time spent: 5.5h**
+   **Total time spent: 5h**
 
    # May 26th: Writing New Code and Finding Parts
  - Took old code which controlled servos and rewrote it
@@ -138,6 +138,23 @@ created_at: "2025-05-21"
  - Trying to keep my project to the $50 and under range but right now around ~$60
 
 **Total time spent: 1.5h**
+
+# May 32th: Finalizing BOM and doing README
+
+- Just was double checking my AliExpress cart and saw that one of the items was out of stock
+- It was the 2 3.7v batteries I use to power the ESP32 and the PCA9685
+- Increased my costs by $2
+- One small concern is that now it has 3000mAH which is a lot more than my previous which had 350mAh
+- But it now is a bit bigger which will make it heavier
+- ![image](https://github.com/user-attachments/assets/56ef1cd5-300b-4ebe-b9d7-a7fd0b5b34d7)
+- Then, went on and worked on my README
+- Put a few pics and project descriptions
+- Not making it too long but as long as it overviews the porject it is all good
+- Then I just made sure I had everything all together and all the files/BOM was uploded
+- Now I am submitting the project and hopefully it gets approved
+
+**Total time spent: 1.5h**
+
 
 
 
