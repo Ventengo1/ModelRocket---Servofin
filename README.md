@@ -11,4 +11,10 @@ Disclaimer: Artificial intelligence was used in the some parts of the making of 
 
 
 BOM: I am not inlduing the cost of PLA in the BOM as I am only using 200grams worth.
-[Highway Model Rocket BOM - Sheet1.pdf](https://github.com/user-attachments/files/20534308/Highway.Model.Rocket.BOM.-.Sheet1.pdf)
+![image](https://github.com/user-attachments/assets/a327239a-ef57-44d0-87d9-9b189e3249ef)
+
+
+
+
+In the future, I want to take this project to a whole new level with oritentation controlled servos and landing legs which deploy (SpaceX style).
+
