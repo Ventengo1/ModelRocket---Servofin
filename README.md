@@ -10,7 +10,7 @@ Disclaimer: Artificial intelligence was used in the some parts of the making of 
 
 
 
-BOM: I am not inlduing the cost of PLA in the BOM as I am only using 200grams worth.
+BOM: I am not including the cost of PLA in the BOM as I am only using 200grams worth.
 ![image](https://github.com/user-attachments/assets/a327239a-ef57-44d0-87d9-9b189e3249ef)
 
 
