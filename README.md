@@ -1,4 +1,4 @@
-# ModelRocket---Servofin
+# Servo Controlled Model Rocket
 
 This is a model rocket with servo controlled fins and a ailtitude tracker. It is built with a ESP32 to for wifi and bluetooth control, a BMO280 for the alitude sensor, a PCA9685 as the servo driver board, and 2 SG90 micro servos. The project is made for and funded by Hack Club's Highway program. 
 
